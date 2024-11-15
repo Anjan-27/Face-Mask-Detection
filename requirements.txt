@@ -4,3 +4,4 @@ pillow
 mtcnn
 opencv-python-headless
 scikit-learn
+tensorflow
